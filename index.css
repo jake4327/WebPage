@@ -1,0 +1,49 @@
+body {
+    padding: 0%;
+    margin: 0%;
+}
+
+header {
+    background-color: black;
+    color: white;
+    margin: 0%;
+}
+
+#upper_header {
+    background-color: gray;
+    padding-left: 0.5%;
+}
+
+#lower_header {
+    background-color: gray;
+    padding-left: 0.5%;
+}
+
+#middle_header {
+    padding-left: 0.5%;
+}
+
+.header-button {
+    display: inline-block;
+}
+
+nav {
+    padding:  0%;
+    margin: 0%;
+    display: inline-block;
+}
+
+ol {
+    padding:  0%;
+    margin: 0%;
+    
+}
+
+li {
+    padding:  0%;
+    margin: 0%;
+    display: inline-block;
+}
+h2 {
+    display: inline-block;
+}
